@@ -1,4 +1,4 @@
-# Javed-Project
+# Javed-Python-Project
 This is my first Repository Project
 Author - Javed Bagwan
 <br>
